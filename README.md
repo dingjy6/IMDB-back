@@ -1,2 +1,12 @@
-# IMDB-back-demo
-IMDB back server demo using for class project DSA5104
+# back-demo
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run server
+```
+
